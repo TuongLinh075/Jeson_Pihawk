@@ -22,5 +22,7 @@ unzip annotations_trainval2017.zip
 # Convert CoCo Anotation
 pip install roboflow supervision
 
+
 # reference 
 https://docs.ultralytics.com/guides/nvidia-jetson/#install-pytorch-and-torchvision
+pip install -r .txt
